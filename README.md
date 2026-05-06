@@ -149,7 +149,7 @@ Editar archivo:
 ```
 Ejemplo:
 ```
-SERVER_URL=http://192.168.X.X:3001/AppDescargaPodcast/api/v1
+SERVER_URL=http://192.168.X.X:3001/AppDescargaPodcastBackend/api/v1
 ```
 ⚠️ En Android físico evita usar localhost
 
