@@ -41,7 +41,7 @@ Además, está abierto para:
 ## 📱 Descargas
 
 - 📥 **Android APK**:  
-  https://drive.google.com/file/d/1LKgdu1WDPo8eU2NVjoB92TPi4my8QP4D/view  
+(https://github.com/isairey/AppDescargaPodcast/releases/tag/V1) 
 
 - 🍏 **iOS**: Próximamente...
 
