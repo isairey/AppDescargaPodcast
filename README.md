@@ -41,7 +41,7 @@ Además, está abierto para:
 ## 📱 Descargas
 
 - 📥 **Android APK**:  
-(https://github.com/isairey/AppDescargaPodcast/releases/tag/V1) 
+https://github.com/isairey/AppDescargaPodcast/releases/tag/V1
 
 - 🍏 **iOS**: Próximamente...
 
@@ -123,8 +123,8 @@ Además, está abierto para:
 
 ### 1. Clonar repositorio
 ```bash
-git clone https://github.com/steniowagner/mindCast
-cd mindCast
+git clone https://github.com/isairey/AppDescargaPodcast
+cd AppDescargaPodcast
 ```
 2. Instalar dependencias
 ```
@@ -140,7 +140,7 @@ yarn
 
 Este proyecto necesita un backend local:
 ```
-👉 https://github.com/steniowagner/mindcast-server
+👉 https://github.com/isairey/AppDescargaPodcastBackend
 Configurar .env
 ```
 Editar archivo:
