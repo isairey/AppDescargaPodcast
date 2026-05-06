@@ -125,51 +125,66 @@ Además, está abierto para:
 ```bash
 git clone https://github.com/steniowagner/mindCast
 cd mindCast
+```
 2. Instalar dependencias
+```
 npm install
+```
 # o
+```
 yarn
-🔌 Configuración del servidor
+```
+---
+
+## 🔌 Configuración del servidor
 
 Este proyecto necesita un backend local:
-
+```
 👉 https://github.com/steniowagner/mindcast-server
-
 Configurar .env
-
+```
 Editar archivo:
-
+```
 .env.development
-
+```
 Ejemplo:
-
-SERVER_URL=http://192.168.X.X:3001/mind-cast/api/v1
-
+```
+SERVER_URL=http://192.168.X.X:3001/AppDescargaPodcast/api/v1
+```
 ⚠️ En Android físico evita usar localhost
 
-▶️ Ejecución
+---
+
+## ▶️ Ejecución
+```
 Android
 react-native run-android
 iOS
 react-native run-ios
-🧪 Demo / Review
+```
 
-🎥 https://youtu.be/nu8mwGZUBFU
+---
 
-🤝 Contribuciones
+
+## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas!
 
-Crear issues 🐛
-Enviar pull requests 🔥
-Proponer mejoras 💡
-👤 Autor
+- Crear issues 🐛
+- Enviar pull requests 🔥
+- Proponer mejoras 💡
 
-Isai Reyes
+---
+
+## 👤 Autor
+
+**Isai Reyes**
 
 💻 GitHub: https://github.com/isairey
-📧 Contacto: (agrega tu correo aquí)
-📄 Licencia
+
+---
+
+## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
 Consulta el archivo LICENSE para más detalles.
